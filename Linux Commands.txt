@@ -3,19 +3,19 @@ LINUX INTERVIEW QUESTIONS
 1. Filesystem Basics
 
 	1. What is the command to create an empty file? 
-
+	Answer:
 			touch filename
 
 	2. How do you create a new directory?
 	Answer:
 			mkdir directory_name
 
-	3. How do you list all files in a directory? 
-
+	3. How do you list all files in a directory?
+	Answer:
 		ls
 
 	4. How do you list all files, including hidden ones? 
-
+	Answer:
 		ls -a
 
 	5. How do you display the current working directory?
@@ -23,11 +23,11 @@ LINUX INTERVIEW QUESTIONS
 		pwd
 
 	6. How do you move or rename a file? 
-
+	Answer:
 		mv source_file destination_file
 
 	7. How do you copy a file? 
-
+	Answer:
 		cp source_file destination_file
 
 	8. What command is used to delete a file?
@@ -51,7 +51,7 @@ LINUX INTERVIEW QUESTIONS
 		tail filename
 
 	13. How do you check free disk space? 
-
+	Answer:
 		df -h
 
 	14. How do you display disk usage of a directory?
@@ -146,7 +146,7 @@ LINUX INTERVIEW QUESTIONS
 
 3. Process Management
 
-		36. How do you view running processes?
+	36. How do you view running processes?
 	Answer:
 		ps -aux
 
